@@ -1,7 +1,9 @@
 # botwmoddingserver
 Mods and resources for the BOTW modding server
 
-## Mod List
+## Mods
+- [FabricMC ModLoader](https://fabricmc.net/use/) Make sure you tick "show snapshots" and then select "21w43a" in the installer!
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/3510341)
 - [Convenient mobGriefing](https://www.curseforge.com/minecraft/mc-mods/convenient-mobgriefing/files/3355080)
 - [Grind Enchantments](https://www.curseforge.com/minecraft/mc-mods/grind-enchantments/files/3454006)
 - [Customizable Player Models](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric/files/3480350)
