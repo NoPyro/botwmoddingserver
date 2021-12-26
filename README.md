@@ -2,7 +2,7 @@
 Mods and resources for the BOTW modding server
 
 ## Mods
-The mods used can be found within the download itself, within the modlist.html file
+The mods used can be found within the download itself, within the modlist.html file, there is also a [.zip file](https://mega.nz/file/maoyATIY#KmNY_pC6QBiBD2CJfsMYyY5tmHfdotLxUkOk4rkzpVQ) containing all the mods, for easy testing until the curse pack becomes available.
 
 ## Recommended Clientside Mods
 Certain clientside mods (the server doesn't need them, only you) have been omitted from the pack, due to believing their addition may not be preferred by everyone, as such we have decided to list them here:
