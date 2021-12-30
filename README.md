@@ -6,7 +6,7 @@ The mods used can be found within the download itself, within the modlist.html f
 
 The pack is available on [Curseforge](https://www.curseforge.com/minecraft/modpacks/nopyros-botwmodding-modpack). IF YOU DOWNLOAD THE PACK FROM CURSEFORGE YOU MUST ADD [kibe CUSTOMMUSTDOWNLOADFROMHERE.jar](https://github.com/NoPyro/botwmoddingserver/raw/main/kibe%20CUSTOMMUSTDOWNLOADFROMHERE.jar) MANUALLY TO JOIN THE SERVER.
 
-There is also a [.zip file](https://mega.nz/file/jfZ3lQLK#u2vDjPATF3Adv9WvxgtcYuOG1x26gWwgqwFMfEoZXxA) containing all the mods for manual installation.
+There is also a [.zip file](https://mega.nz/file/LX4GXIIB#tjehHfHf5AN1a9DAfsEBXCP1-uMN5ntCkL01V7ShO8M) containing all the mods for manual installation.
 
 
 
