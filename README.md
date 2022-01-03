@@ -6,7 +6,7 @@ The mods used can be found within the download itself, within the modlist.html f
 
 The pack is available on [Curseforge](https://www.curseforge.com/minecraft/modpacks/nopyros-botwmodding-modpack).
 
-There is also a [.zip file](https://mega.nz/file/LX4GXIIB#tjehHfHf5AN1a9DAfsEBXCP1-uMN5ntCkL01V7ShO8M) containing all the mods for manual installation.
+There is also a [.zip file](https://mega.nz/file/PCg2yDaa#5s4buVRNp-0lko2_UwKfi_pIwnPoUlcmjB5_VY0c1v4) containing all the mods for manual installation.
 
 KIBE IS NOW THE VANILLA VERSION AGAIN, SORRY FOR THE TEMPORARY INCONVENIENCE
 
