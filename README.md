@@ -4,7 +4,7 @@ Mods and resources for the BOTW modding server
 ## Mods
 The mods used can be found within the download itself, within the modlist.html file.
 
-The pack is available on [Curseforge](https://www.curseforge.com/minecraft/modpacks/nopyros-botwmodding-modpack). IF YOU DOWNLOAD THE PACK FROM CURSEFORGE YOU MUST ADD [kibe CUSTOMMUSTDOWNLOADFROMHERE.jar](https://github.com/NoPyro/botwmoddingserver/raw/main/kibe%20CUSTOMMUSTDOWNLOADFROMHERE.jar) MANUALLY TO JOIN THE SERVER.
+The pack is available on [Curseforge](https://www.curseforge.com/minecraft/modpacks/nopyros-botwmodding-modpack).
 
 There is also a [.zip file](https://mega.nz/file/LX4GXIIB#tjehHfHf5AN1a9DAfsEBXCP1-uMN5ntCkL01V7ShO8M) containing all the mods for manual installation.
 
