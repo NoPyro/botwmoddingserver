@@ -8,6 +8,7 @@ The pack is available on [Curseforge](https://www.curseforge.com/minecraft/modpa
 
 There is also a [.zip file](https://mega.nz/file/LX4GXIIB#tjehHfHf5AN1a9DAfsEBXCP1-uMN5ntCkL01V7ShO8M) containing all the mods for manual installation.
 
+KIBE IS NOW THE VANILLA VERSION AGAIN, SORRY FOR THE TEMPORARY INCONVENIENCE
 
 
 ## Recommended Clientside Mods
